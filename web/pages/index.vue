@@ -1,5 +1,5 @@
 <template>
-	<div style="padding: 20px">
-		<h1>Home</h1>
+	<div class="p-8">
+		<UButton color="secondary"> Nuxt UI OK </UButton>
 	</div>
 </template>

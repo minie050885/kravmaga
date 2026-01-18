@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+:root {
+  /* primary */
+  --color-gold-50:  oklch(98% 0.03 85);
+  --color-gold-100: oklch(95% 0.05 85);
+  --color-gold-200: oklch(92% 0.08 85);
+  --color-gold-300: oklch(88% 0.12 85);
+  --color-gold-400: oklch(85% 0.16 85);
+  --color-gold-500: oklch(82% 0.18 85);
+  --color-gold-600: oklch(72% 0.17 85);
+  --color-gold-700: oklch(62% 0.15 85);
+  --color-gold-800: oklch(52% 0.12 85);
+  --color-gold-900: oklch(42% 0.09 85);
+  --color-gold-950: oklch(30% 0.06 85);
+    /* secondary */
+  --color-ink-50:  oklch(96% 0.002 270);
+  --color-ink-100: oklch(92% 0.003 270);
+  --color-ink-200: oklch(85% 0.004 270);
+  --color-ink-300: oklch(72% 0.006 270);
+  --color-ink-400: oklch(58% 0.008 270);
+  --color-ink-500: oklch(44% 0.010 270);
+  --color-ink-600: oklch(36% 0.010 270);
+  --color-ink-700: oklch(32% 0.010 270);
+  --color-ink-800: oklch(26% 0.009 270);
+  --color-ink-900: oklch(20% 0.008 270);
+  --color-ink-950: oklch(14% 0.006 270);
+}
